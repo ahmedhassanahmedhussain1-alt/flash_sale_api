@@ -31,7 +31,7 @@ Metrics and logs track critical events.
 
 Clone the repository:
 
-git clone <your-repo-url>
+git clone <https://github.com/ahmedhassanahmedhussain1-alt/flash_sale_api>
 cd flash-sale-api
 
 
